@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MAWESI-SAS/ORACLE_MCP)
+
 # ORACLE_MCP
 
 Un servidor que implementa el Model Context Protocol (MCP) para interactuar con bases de datos Oracle. Proporciona herramientas para ejecutar consultas SQL, administrar usuarios y explorar la estructura de la base de datos mediante una interfaz estándar MCP.
