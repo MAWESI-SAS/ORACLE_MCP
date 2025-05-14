@@ -1,5 +1,5 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MAWESI-SAS/ORACLE_MCP)
-[![MAWESI]([https://deepwiki.com/badge.svg](https://static.wixstatic.com/shapes/8b0a46_bf3f136109004d1d96069b65223389d7.svg))](https://www.mawesi.net)
+[![MAWESI](https://static.wixstatic.com/shapes/8b0a46_bf3f136109004d1d96069b65223389d7.svg)](https://www.mawesi.net)
 
 # ORACLE_MCP
 
